@@ -1,0 +1,20 @@
+rock paper scissor game
+
+
+requirements:
+
+2 players;
+3 options - rock, paper or scissor.
+prompt asks for a choice in the console for user
+    - ask question about the user choice
+    - take input and save user choice in a variable
+program randomly chooses between 3 choices
+resutls console print
+
+game logic:
+
+1. if both choices match then its draw - no points
+2. rock beats scissor
+3. scissor beats paper
+4. paper beats rock
+
